@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Allow: /admin/
+Allow: /admin/index.html
+Allow: /SUp3rS3cr3TFl4g.txt
